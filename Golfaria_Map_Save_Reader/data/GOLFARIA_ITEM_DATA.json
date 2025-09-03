@@ -1,0 +1,324 @@
+[
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 1152,
+    "y": 832,
+    "save_value": 8320001152
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 1792,
+    "y": 1952,
+    "save_value": 19520001792
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 1360,
+    "y": 1328,
+    "save_value": 13280001360
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 1200,
+    "y": 2160,
+    "save_value": 21600001200
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 1920,
+    "y": 3024,
+    "save_value": 30240001920
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 2496,
+    "y": 2592,
+    "save_value": 25920002496
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 848,
+    "y": 544,
+    "save_value": 5440000848
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 3672,
+    "y": 192,
+    "save_value": 1920003672
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 3008,
+    "y": 1024,
+    "save_value": 10240003008
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 1200,
+    "y": 1152,
+    "save_value": 11520001200
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 288,
+    "y": 2096,
+    "save_value": 20960000288
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 1664,
+    "y": 448,
+    "save_value": 4480001664
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 560,
+    "y": 2512,
+    "save_value": 25120000560
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 1024,
+    "y": 2128,
+    "save_value": 21280001024
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 2256,
+    "y": 1088,
+    "save_value": 10880002256
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 1136,
+    "y": 1552,
+    "save_value": 15520001136
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 328,
+    "y": 1864,
+    "save_value": 18640000328
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 448,
+    "y": 832,
+    "save_value": 8320000448
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 2176,
+    "y": 656,
+    "save_value": 6560002176
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_clubs",
+    "x": 512,
+    "y": 1600,
+    "save_value": 16000000512
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_npcRescue",
+    "x": 1088,
+    "y": 208,
+    "save_value": "temple_east"
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_npcRescue",
+    "x": 2520,
+    "y": 656,
+    "save_value": "im_lost"
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_npcRescue",
+    "x": 3664,
+    "y": 2464,
+    "save_value": "desert_cave"
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_npcRescue",
+    "x": 2336,
+    "y": 3184,
+    "save_value": "water_save_cave"
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_npcRescue",
+    "x": 1504,
+    "y": 2720,
+    "save_value": "water_cave"
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_npcRescue",
+    "x": 848,
+    "y": 2240,
+    "save_value": "lake_center"
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_npcRescue",
+    "x": 1280,
+    "y": 2784,
+    "save_value": "temple_north"
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_npcRescue",
+    "x": 2992,
+    "y": 1600,
+    "save_value": "sandman"
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_parBot",
+    "x": 1848,
+    "y": 1320,
+    "save_value": 13200001848
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_parBot",
+    "x": 2200,
+    "y": 2088,
+    "save_value": 20880002200
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_parBot",
+    "x": 1464,
+    "y": 984,
+    "save_value": 9840001464
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_parBot",
+    "x": 1672,
+    "y": 3144,
+    "save_value": 31440001672
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_parBot",
+    "x": 1120,
+    "y": 664,
+    "save_value": 6640001120
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_parBot",
+    "x": 624,
+    "y": 2464,
+    "save_value": 24640000624
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_parBot",
+    "x": 3688,
+    "y": 1960,
+    "save_value": 19600003688
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_parBot",
+    "x": 2896,
+    "y": 944,
+    "save_value": 9440002896
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_parBot",
+    "x": 3128,
+    "y": 136,
+    "save_value": 1360003128
+  },
+  {
+    "room": "rm06_Golfania2",
+    "type": "game6_parBot",
+    "x": 2776,
+    "y": 2872,
+    "save_value": 28720002776
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_tee1",
+    "x": 3472,
+    "y": 528,
+    "save_value": 1
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_tee2",
+    "x": 896,
+    "y": 2736,
+    "save_value": 1
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_tee3",
+    "x": 3120,
+    "y": 1408,
+    "save_value": 1
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_tee4",
+    "x": 576,
+    "y": 176,
+    "save_value": 1
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_golfSandRoll",
+    "x": 3664,
+    "y": 2592,
+    "save_value": 1
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_golfWaterRoll",
+    "x": 3600,
+    "y": 1104,
+    "save_value": 1
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_golfBuster",
+    "x": 680,
+    "y": 200,
+    "save_value": 1
+  },
+  {
+    "room": "rm06_Golfania",
+    "type": "game6_golfBrake",
+    "x": 592,
+    "y": 3008,
+    "save_value": 1
+  }
+]
